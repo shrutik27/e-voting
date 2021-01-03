@@ -1,0 +1,53 @@
+.form h2{
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight:800;
+}
+.form-group{
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight:800;
+}
+.form{
+    margin-left:32%;
+    width:30%;
+    margin-top:50px;
+    color: white;
+    font-family: "Poppins", Arial, sans-serif;
+    font-style: inherit;
+    background-color:#000144;
+    padding-top:50px;
+    padding-left:30px;
+    padding-bottom:30px;
+    margin-top:100px;
+    
+}
+.fit-all{
+  min-height:18vh;
+}
+.form input{
+    width:90%;
+}
+#btn-signup{
+    margin-left:30%;
+    background-color:#B0B8B4FF;
+    border:none;
+}
+
+  .image-grid1{
+    padding-top:50px;
+  }
+  .image-card1{
+    width:25%;
+    float:left;
+  }
+  .image-card1 img{
+    width:100%;
+  }
+  
+@media only screen and (max-width:700px) {
+    .form{
+        margin: auto;
+        width:80%;
+        margin-top:130px;
+    }
+
+}
